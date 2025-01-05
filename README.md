@@ -1,5 +1,5 @@
 # Web3Superpower: Generative AI: Tools, Opportunities, and Possibilites
-The following is a preparation for my talk at the [Web3Superpower](https://web3superpower.com/) BlockQuest Conference.
+[WIP] The following is a preparation for my talk at the [Web3Superpower](https://web3superpower.com/) BlockQuest Conference.
 
 ## Table of Contents
 - [Introduction](#introduction)
