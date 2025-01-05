@@ -13,7 +13,7 @@ The following is a preparation for my talk at the [Web3Superpower](https://web3s
 ## Introduction
 Hi, I'm Amit Timalsina, a self-taught Software Engineer specializing in (ordered by expertise):
 * Machine Learning (ML)
-* Artificial Intelligence (AI)
+* Generative AI (GenAI)
 * Backend Development
 
 Currently:
@@ -35,3 +35,5 @@ Find me on:
 * [GitHub](https://github.com/amit-timalsina)
 * [LinkedIn](https://www.linkedin.com/in/amittimalsina/)
 * [X](https://x.com/amittimalsina14)
+
+## What is Generative AI?
