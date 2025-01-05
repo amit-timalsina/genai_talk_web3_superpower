@@ -25,7 +25,7 @@ Currently:
 * Also building a B2B product in the AI Chatbot space.
 
 Previous Experience:
-* First engineer at Kniru
+* First engineer at Kniru (Personal finance management B2C app)
     * Led development of:
         * AI chatbot system
         * Notification infrastructure
