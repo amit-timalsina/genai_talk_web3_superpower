@@ -6,7 +6,7 @@ The following is a preparation for my talk at the [Web3Superpower](https://web3s
 - [What is Generative AI?](#what-is-generative-ai)
 - [How Generative AI Works](#how-generative-ai-works)
 - [The impact of GenAI on Individual and Business](#the-impact-of-genai-on-individual-and-business)
-- [Oppurtunities for students, developers, and entrepreneurs](#opportunities-for-students-developers-and-entrepreneurs)
+- [Oppurtunities for students, developers, and entrepreneurs](#oppurtunities-for-students-developers-and-entrepreneurs)
 - [Tools for users and builders](#tools-for-users-and-builders)
 - [Conclusion](#conclusion)
 
@@ -37,3 +37,18 @@ Find me on:
 * [X](https://x.com/amittimalsina14)
 
 ## What is Generative AI?
+
+
+## How Generative AI Works
+
+
+## The impact of GenAI on Individual and Business
+
+
+## Oppurtunities for students, developers, and entrepreneurs
+
+
+## Tools for users and builders
+
+
+## Conclusion
