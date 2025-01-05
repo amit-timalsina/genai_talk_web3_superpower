@@ -18,18 +18,18 @@ Hi, I'm Amit Timalsina, a self-taught Software Engineer specializing in (ordered
 
 Currently:
 * Working as a Senior Software Engineering Consultant
-* Focused on:
-    * LLM-based data extraction solutions
-    * Building enterprise chatbots for proprietary data
+    * Focused on:
+        * LLM-based data extraction solutions
+        * Building enterprise chatbots for proprietary data
 * Also building open source tools for the community like: [document-classifcation](https://github.com/amit-timalsina/document_classification)
-- Also building a B2B product in the AI Chatbot space.
+* Also building a B2B product in the AI Chatbot space.
 
 Previous Experience:
 * First engineer at Kniru
-* Led development of:
-    * AI chatbot system
-    * Notification infrastructure
-    * many more.
+    * Led development of:
+        * AI chatbot system
+        * Notification infrastructure
+        * many more.
 
 Find me on:
 * [GitHub](https://github.com/amit-timalsina)
