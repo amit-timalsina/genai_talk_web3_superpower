@@ -69,15 +69,7 @@ Deep learning is a subset of machine learning that uses neural networks with mul
 
 ### Generative Models
 
-Generative models are a type of AI model that can generate new data instances resembling the training data. Key types include:
-
-#### Generative Adversarial Networks (GANs)
-
-GANs consist of two neural networks—a generator and a discriminator—that are trained together. The generator creates new data instances, while the discriminator evaluates them against real data. The generator aims to produce data that the discriminator cannot distinguish from real data.
-
-#### Variational Autoencoders (VAEs)
-
-VAEs encode input data into a compressed representation (latent space) and then decode it to reconstruct the data. This allows for generating new, similar data by sampling from the latent space.
+Generative models are a type of AI model that can generate new data instances resembling the training data.
 
 #### Transformers
 
