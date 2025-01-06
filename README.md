@@ -46,6 +46,10 @@ Find me on:
 Understanding Generative AI is essential as it is rapidly transforming industries and changing how we live and work.
 
 ## What is Generative AI?
+![
+    Generative AI in a Nutshell.png
+](<Generative AI in a Nutshell.png>)
+Source: [Generative AI in a Nutshell - how to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
 Generative AI refers to artificial intelligence systems capable of creating original content based on the data they have been trained on. This includes text, images, audio, and even video.
 
@@ -170,6 +174,15 @@ Several powerful tools are available for users and builders in the Generative AI
     - *Use Cases*: Generating unique artwork, concept designs, and creative illustrations.
 - **RunwayML**: A platform offering creative AI tools for artists and designers.
     - *Use Cases*: Video editing, image generation, and experimenting with AI models.
+- **ChatBase**
+- **SORA**
+- **Replit**
+- **Cursor**
+- **GitHub Copilot**
+- **Devin**
+- **Rollout.site**
+
+Note: try to categorize the tools into categories like AI tools, development frameworks, accessible platforms, and more. Also, give links to website.
 
 ### Development Frameworks
 
